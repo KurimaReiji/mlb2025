@@ -17,7 +17,7 @@ function initially_scheduled(game, _) {
  * @returns {boolean} - Returns true if the game is completed, false otherwise.
  */
 function isCompleted(game, _) {
-  return ["Final", "Completed Early", "Cancelled"].includes(game.status);
+  return ["Final", "Completed Early", "Game Over", "Cancelled"].includes(game.status);
 }
 
 /**
