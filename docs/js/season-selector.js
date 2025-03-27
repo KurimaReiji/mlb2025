@@ -107,6 +107,8 @@ class SeasonSelector extends HTMLElement {
             game.status = g.status.detailedState;
             game.teams.away.score = g.teams.away.score;
             game.teams.home.score = g.teams.home.score;
+            if (g.teams.away.score > g.teams.home.score) game.teams.away.isWinner = true;
+            if (g.teams.away.score < g.teams.home.score) game.teams.home.isWinner = true;
           }
         })
         document.dispatchEvent(new CustomEvent("SeasonDataLoaded", {
@@ -144,5 +146,5 @@ async function get_today(season) {
 async function get_season(season) {
   const url = (new URL(`../mlb-games-${season}.json`, import.meta.url)).href;
   return fetch(url, { cache: (Number(season) === 2025 ? "no-cache" : "default") })
-    .then((res) => res.json())
+    .then((res) => res.json());
 }
