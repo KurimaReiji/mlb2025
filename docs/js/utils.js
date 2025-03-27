@@ -10,14 +10,14 @@ function initially_scheduled(game, _) {
 }
 
 /**
- * @description Checks if a game is completed (Final, Completed Early, or Cancelled) and is intended to be used as a callback for the filter method.
+ * @description Checks if a game is completed (Final, Completed Early, Game Over or Cancelled) and is intended to be used as a callback for the filter method.
  * @function isCompleted
  * @param {object} game - The game object.
  * @param {number} _ - Placeholder for the index, unused in this callback function for filter.
  * @returns {boolean} - Returns true if the game is completed, false otherwise.
  */
 function isCompleted(game, _) {
-  return ["Final", "Completed Early", "Cancelled"].includes(game.status);
+  return ["Final", "Completed Early", "Game Over", "Cancelled"].includes(game.status);
 }
 
 /**
