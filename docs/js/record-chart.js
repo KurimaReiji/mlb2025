@@ -294,8 +294,8 @@ class RecordChart extends HTMLElement {
 
     const css = [
       `<style>:host { display: block; height: 100%;} svg { display: block; }</style>`,
-      `<link rel="stylesheet" href="../css/mlb2025-colors.css">`,
-      `<link rel="stylesheet" href="../css/mlb2025-color-legend.css">`
+      `<link rel="stylesheet" href="${(new URL('../css/mlb2025-colors.css', import.meta.url)).href}">`,
+      `<link rel="stylesheet" href="${(new URL('../css/mlb2025-color-legend.css', import.meta.url)).href}">`
     ].join("\n");
     const html = `${svgTemplate}`;
     root.innerHTML = `${css}${html}`;
