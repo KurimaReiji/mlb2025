@@ -4259,15 +4259,19 @@
       "season": "2025",
       "gameDate": "2025-04-07T19:10:00Z",
       "officialDate": "2025-04-07",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
+          "score": 2,
           "team": "Yankees",
+          "isWinner": false,
           "seriesNumber": 4,
           "chartPos": 21
         },
         "home": {
+          "score": 6,
           "team": "Tigers",
+          "isWinner": true,
           "seriesNumber": 4,
           "chartPos": 5
         }
@@ -4281,15 +4285,19 @@
       "season": "2025",
       "gameDate": "2025-04-07T22:40:00Z",
       "officialDate": "2025-04-07",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
+          "score": 4,
           "team": "Cardinals",
+          "isWinner": false,
           "seriesNumber": 4,
           "chartPos": 23
         },
         "home": {
+          "score": 8,
           "team": "Pirates",
+          "isWinner": true,
           "seriesNumber": 4,
           "chartPos": 23
         }
@@ -4303,15 +4311,19 @@
       "season": "2025",
       "gameDate": "2025-04-07T22:45:00Z",
       "officialDate": "2025-04-07",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
+          "score": 4,
           "team": "Dodgers",
+          "isWinner": false,
           "seriesNumber": 5,
           "chartPos": 9
         },
         "home": {
+          "score": 6,
           "team": "Nationals",
+          "isWinner": true,
           "seriesNumber": 4,
           "chartPos": 31
         }
@@ -4325,15 +4337,19 @@
       "season": "2025",
       "gameDate": "2025-04-07T22:45:00Z",
       "officialDate": "2025-04-07",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
+          "score": 6,
           "team": "Blue Jays",
+          "isWinner": true,
           "seriesNumber": 4,
           "chartPos": 5
         },
         "home": {
+          "score": 2,
           "team": "Red Sox",
+          "isWinner": false,
           "seriesNumber": 4,
           "chartPos": 13
         }
@@ -4347,15 +4363,19 @@
       "season": "2025",
       "gameDate": "2025-04-07T23:10:00Z",
       "officialDate": "2025-04-07",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
+          "score": 0,
           "team": "Marlins",
+          "isWinner": false,
           "seriesNumber": 4,
           "chartPos": 6
         },
         "home": {
+          "score": 2,
           "team": "Mets",
+          "isWinner": true,
           "seriesNumber": 4,
           "chartPos": 6
         }
@@ -4369,15 +4389,19 @@
       "season": "2025",
       "gameDate": "2025-04-07T23:40:00Z",
       "officialDate": "2025-04-07",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
+          "score": 0,
           "team": "Rangers",
+          "isWinner": false,
           "seriesNumber": 4,
           "chartPos": 43
         },
         "home": {
+          "score": 7,
           "team": "Cubs",
+          "isWinner": true,
           "seriesNumber": 5,
           "chartPos": 42
         }
@@ -4391,15 +4415,19 @@
       "season": "2025",
       "gameDate": "2025-04-07T23:40:00Z",
       "officialDate": "2025-04-07",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
+          "score": 2,
           "team": "Twins",
+          "isWinner": false,
           "seriesNumber": 4,
           "chartPos": 23
         },
         "home": {
+          "score": 4,
           "team": "Royals",
+          "isWinner": true,
           "seriesNumber": 4,
           "chartPos": 23
         }
@@ -4413,15 +4441,19 @@
       "season": "2025",
       "gameDate": "2025-04-08T01:40:00Z",
       "officialDate": "2025-04-07",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
+          "score": 5,
           "team": "Orioles",
+          "isWinner": true,
           "seriesNumber": 4,
           "chartPos": 37
         },
         "home": {
+          "score": 1,
           "team": "Diamondbacks",
+          "isWinner": false,
           "seriesNumber": 4,
           "chartPos": 48
         }
@@ -4435,15 +4467,19 @@
       "season": "2025",
       "gameDate": "2025-04-08T01:40:00Z",
       "officialDate": "2025-04-07",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
+          "score": 3,
           "team": "Astros",
+          "isWinner": false,
           "seriesNumber": 4,
           "chartPos": 29
         },
         "home": {
+          "score": 4,
           "team": "Mariners",
+          "isWinner": true,
           "seriesNumber": 4,
           "chartPos": 25
         }
@@ -4457,15 +4493,19 @@
       "season": "2025",
       "gameDate": "2025-04-08T01:45:00Z",
       "officialDate": "2025-04-07",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
+          "score": 2,
           "team": "Reds",
+          "isWinner": true,
           "seriesNumber": 4,
           "chartPos": 36
         },
         "home": {
+          "score": 0,
           "team": "Giants",
+          "isWinner": false,
           "seriesNumber": 4,
           "chartPos": 14
         }
@@ -4479,15 +4519,19 @@
       "season": "2025",
       "gameDate": "2025-04-08T02:05:00Z",
       "officialDate": "2025-04-07",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
+          "score": 5,
           "team": "Padres",
+          "isWinner": true,
           "seriesNumber": 4,
           "chartPos": 37
         },
         "home": {
+          "score": 4,
           "team": "Athletics",
+          "isWinner": false,
           "seriesNumber": 4,
           "chartPos": 40
         }
@@ -4540,6 +4584,28 @@
       "description": "Guardians home opener",
       "gamesInSeries": 3,
       "seriesGameNumber": 1
+    },
+    {
+      "gamePk": 778407,
+      "season": "2025",
+      "gameDate": "2025-04-08T20:10:00Z",
+      "officialDate": "2025-04-08",
+      "status": "Scheduled",
+      "teams": {
+        "away": {
+          "team": "Marlins",
+          "seriesNumber": 4,
+          "chartPos": 6
+        },
+        "home": {
+          "team": "Mets",
+          "seriesNumber": 4,
+          "chartPos": 6
+        }
+      },
+      "venue": "Citi Field",
+      "gamesInSeries": 3,
+      "seriesGameNumber": 2
     },
     {
       "gamePk": 778408,
@@ -4628,28 +4694,6 @@
       "venue": "George M. Steinbrenner Field",
       "gamesInSeries": 3,
       "seriesGameNumber": 1
-    },
-    {
-      "gamePk": 778407,
-      "season": "2025",
-      "gameDate": "2025-04-08T23:10:00Z",
-      "officialDate": "2025-04-08",
-      "status": "Scheduled",
-      "teams": {
-        "away": {
-          "team": "Marlins",
-          "seriesNumber": 4,
-          "chartPos": 6
-        },
-        "home": {
-          "team": "Mets",
-          "seriesNumber": 4,
-          "chartPos": 6
-        }
-      },
-      "venue": "Citi Field",
-      "gamesInSeries": 3,
-      "seriesGameNumber": 2
     },
     {
       "gamePk": 778406,
@@ -20656,6 +20700,7 @@
         }
       },
       "venue": "loanDepot park",
+      "description": "Lou Gehrig Day",
       "gamesInSeries": 3,
       "seriesGameNumber": 1
     },
@@ -20678,6 +20723,7 @@
         }
       },
       "venue": "Fenway Park",
+      "description": "Lou Gehrig Day",
       "gamesInSeries": 3,
       "seriesGameNumber": 1
     },
@@ -20700,6 +20746,7 @@
         }
       },
       "venue": "Great American Ball Park",
+      "description": "Lou Gehrig Day",
       "gamesInSeries": 3,
       "seriesGameNumber": 1
     },
@@ -20722,6 +20769,7 @@
         }
       },
       "venue": "Rate Field",
+      "description": "Lou Gehrig Day",
       "gamesInSeries": 4,
       "seriesGameNumber": 1
     },
@@ -20744,6 +20792,7 @@
         }
       },
       "venue": "Oracle Park",
+      "description": "Lou Gehrig Day",
       "gamesInSeries": 4,
       "seriesGameNumber": 1
     },
@@ -20766,6 +20815,7 @@
         }
       },
       "venue": "Sutter Health Park",
+      "description": "Lou Gehrig Day",
       "gamesInSeries": 4,
       "seriesGameNumber": 1
     },
@@ -20788,6 +20838,7 @@
         }
       },
       "venue": "Dodger Stadium",
+      "description": "Lou Gehrig Day",
       "gamesInSeries": 4,
       "seriesGameNumber": 1
     },
@@ -39538,7 +39589,7 @@
       "venue": "Truist Park",
       "gameNumber": 2,
       "doubleHeader": "S",
-      "gamesInSeries": 5,
+      "gamesInSeries": 4,
       "seriesGameNumber": 3
     },
     {
@@ -50561,6 +50612,7 @@
         }
       },
       "venue": "PNC Park",
+      "description": "Roberto Clemente Day",
       "gamesInSeries": 3,
       "seriesGameNumber": 1
     },
@@ -50583,6 +50635,7 @@
         }
       },
       "venue": "Nationals Park",
+      "description": "Roberto Clemente Day",
       "gamesInSeries": 3,
       "seriesGameNumber": 1
     },
@@ -50605,6 +50658,7 @@
         }
       },
       "venue": "George M. Steinbrenner Field",
+      "description": "Roberto Clemente Day",
       "gamesInSeries": 4,
       "seriesGameNumber": 1
     },
@@ -50627,6 +50681,7 @@
         }
       },
       "venue": "Rate Field",
+      "description": "Roberto Clemente Day",
       "gamesInSeries": 3,
       "seriesGameNumber": 1
     },
@@ -50649,6 +50704,7 @@
         }
       },
       "venue": "Target Field",
+      "description": "Roberto Clemente Day",
       "gamesInSeries": 3,
       "seriesGameNumber": 1
     },
@@ -50671,6 +50727,7 @@
         }
       },
       "venue": "Busch Stadium",
+      "description": "Roberto Clemente Day",
       "gamesInSeries": 3,
       "seriesGameNumber": 1
     },
@@ -50693,6 +50750,7 @@
         }
       },
       "venue": "Daikin Park",
+      "description": "Roberto Clemente Day",
       "gamesInSeries": 3,
       "seriesGameNumber": 1
     },
@@ -50715,6 +50773,7 @@
         }
       },
       "venue": "Chase Field",
+      "description": "Roberto Clemente Day",
       "gamesInSeries": 3,
       "seriesGameNumber": 1
     },
@@ -50737,6 +50796,7 @@
         }
       },
       "venue": "Dodger Stadium",
+      "description": "Roberto Clemente Day",
       "gamesInSeries": 3,
       "seriesGameNumber": 1
     },
