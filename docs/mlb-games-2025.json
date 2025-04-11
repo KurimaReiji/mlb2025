@@ -3339,7 +3339,7 @@
       },
       "venue": "Truist Park",
       "description": "Braves home opener",
-      "gamesInSeries": 2,
+      "gamesInSeries": 3,
       "seriesGameNumber": 1
     },
     {
@@ -5326,15 +5326,19 @@
       "season": "2025",
       "gameDate": "2025-04-10T17:10:00Z",
       "officialDate": "2025-04-10",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
+          "score": 11,
           "team": "Angels",
+          "isWinner": true,
           "seriesNumber": 4,
           "chartPos": 7
         },
         "home": {
+          "score": 1,
           "team": "Rays",
+          "isWinner": false,
           "seriesNumber": 4,
           "chartPos": 31
         }
@@ -5348,15 +5352,19 @@
       "season": "2025",
       "gameDate": "2025-04-10T17:10:00Z",
       "officialDate": "2025-04-10",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
+          "score": 1,
           "team": "White Sox",
+          "isWinner": false,
           "seriesNumber": 4,
           "chartPos": 11
         },
         "home": {
+          "score": 6,
           "team": "Guardians",
+          "isWinner": true,
           "seriesNumber": 4,
           "chartPos": 11
         }
@@ -5370,15 +5378,19 @@
       "season": "2025",
       "gameDate": "2025-04-10T18:10:00Z",
       "officialDate": "2025-04-10",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
+          "score": 2,
           "team": "Twins",
+          "isWinner": false,
           "seriesNumber": 4,
           "chartPos": 23
         },
         "home": {
+          "score": 3,
           "team": "Royals",
+          "isWinner": true,
           "seriesNumber": 4,
           "chartPos": 23
         }
@@ -5392,15 +5404,19 @@
       "season": "2025",
       "gameDate": "2025-04-10T19:10:00Z",
       "officialDate": "2025-04-10",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
+          "score": 2,
           "team": "Brewers",
+          "isWinner": false,
           "seriesNumber": 4,
           "chartPos": 29
         },
         "home": {
+          "score": 7,
           "team": "Rockies",
+          "isWinner": true,
           "seriesNumber": 4,
           "chartPos": 15
         }
@@ -5414,15 +5430,19 @@
       "season": "2025",
       "gameDate": "2025-04-10T20:10:00Z",
       "officialDate": "2025-04-10",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
+          "score": 3,
           "team": "Blue Jays",
+          "isWinner": false,
           "seriesNumber": 4,
           "chartPos": 5
         },
         "home": {
+          "score": 4,
           "team": "Red Sox",
+          "isWinner": true,
           "seriesNumber": 4,
           "chartPos": 13
         }
@@ -5436,15 +5456,19 @@
       "season": "2025",
       "gameDate": "2025-04-10T23:15:00Z",
       "officialDate": "2025-04-10",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
+          "score": 2,
           "team": "Phillies",
+          "isWinner": false,
           "seriesNumber": 4,
           "chartPos": 1
         },
         "home": {
+          "score": 4,
           "team": "Braves",
+          "isWinner": true,
           "seriesNumber": 4,
           "chartPos": 9
         }
@@ -39709,7 +39733,7 @@
       "venue": "Truist Park",
       "gameNumber": 2,
       "doubleHeader": "S",
-      "gamesInSeries": 5,
+      "gamesInSeries": 4,
       "seriesGameNumber": 3
     },
     {
