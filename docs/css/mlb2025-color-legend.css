@@ -343,7 +343,7 @@
   --team-shadow-color: var(--rays-navy);
 }
 
-[data-team="Mariners"][data-fill="Blue Jays"],
+[data-team="Mariners"] [data-fill="Blue Jays"],
 [data-opponent="Blue Jays"][data-loser="Mariners"] {
   --team-color: var(--bluejays-navy);
 }
