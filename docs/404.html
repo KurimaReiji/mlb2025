@@ -1,18 +1,92 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>MLB 2025</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Noto+Sans&family=Noto+Sans+Mono&display=swap');
+  </style>
+  <style>
+    :root {
+      --bg-color: cornsilk;
+    }
+    body {
+      margin: 0;
+      background: var(--bg-color);
+    }
+    .container {
+      box-sizing: border-box;
+      margin-block: min(4px, 1vw);
+      padding-inline: min(4px,1vw);
+      padding-block: 0 0;
+      min-height: calc(100svh - 50px);
+    }
+  </style>
+  <link rel="stylesheet" href="/mlb2025/css/mlb2025-colors.css">
 </head>
-
 <body>
-  <h1>MLB 2025</h1>
-  <h2>Head-to-head</h2>
-  <ul>
-    <li><a href="https://kurimareiji.github.io/mlb2025/h2h.html?season=2025&team=Dodgers">Dodgers</a></li>
-  </ul>
-</body>
+  <mlb-router></mlb-router>
 
+  <div class="container">
+    <mlb-above500></mlb-above500>
+  </div>
+
+  <script type="importmap">
+{
+  "imports": {
+    "teams": "/mlb2025/js/mlb2025-teams.js",
+    "utils": "/mlb2025/js/mlb2025-utils.js",
+    "above500": "/mlb2025/js/mlb-above500.js",
+    "GameResult": "/mlb2025/js/GameResult.js",
+    "router": "/mlb2025/js/mlb2025-router.js"
+  }
+}
+  </script>
+  <script type="module">
+import { MlbRouter, locationHandler } from "router";
+import { MlbAbove500 } from "above500";
+import { fetchJson } from "utils";
+import { MlbTeams as Teams, toNicknames } from "teams";
+import { toGameResult} from "GameResult";
+
+const gamesToday = () => {
+  return [];
+  return fetchJson("https://statsapi.mlb.com/api/v1/schedule?sportId=1")
+    .then((input) => {
+      const data = input.dates[0].games
+        .filter((g) => !g.resumeGameDate)
+        .map((g) => ({
+          gamePk: g.gamePk,
+          date: g.officialDate,
+          road: Teams.nickname(g.teams.away.team.name),
+          home: Teams.nickname(g.teams.home.team.name),
+          score: [g.teams.away.score, g.teams.home.score].join(" - "),
+          status: g.status.detailedState,
+        }))
+        .filter(({ status }) => ["Final", "Game Over", "Completed Early"].includes(status))
+        ;
+console.log(data);
+      return data;
+    });
+}
+
+Promise.all([
+  fetchJson("/mlb2025/mlb2025-results.json"),
+  gamesToday()
+])
+  .then(([past, today]) => {
+    const recent = today.filter((t) => !past.find((g) => g.gamePk === t.gamePk));
+    const data = past.concat(recent).map(toNicknames).map(toGameResult);
+    document.dispatchEvent(new CustomEvent("ResultsLoaded", { detail: data}));
+  })
+  .catch(console.error);
+
+locationHandler();
+
+const div = document.querySelector(".container");
+div.style.width = getComputedStyle(div).width;
+
+  </script>
+</body>
 </html>
