@@ -1,5 +1,14 @@
 # mlb2025
 
+## Games above .500
+
+- [NL West](https://kurimareiji.github.io/mlb2025/above500/NLwest)
+- [NL Central](https://kurimareiji.github.io/mlb2025/above500/NLcentral)
+- [NL East](https://kurimareiji.github.io/mlb2025/above500/NLeast)
+- [AL West](https://kurimareiji.github.io/mlb2025/above500/ALwest)
+- [AL Central](https://kurimareiji.github.io/mlb2025/above500/ALcentral)
+- [AL East](https://kurimareiji.github.io/mlb2025/above500/ALeast)
+
 ## Head-to-Head Results
 
 These charts display the performance of an MLB team.
@@ -12,7 +21,7 @@ Click on each dot to display the series details.
 - [Phillies](https://kurimareiji.github.io/mlb2025/h2h.html?season=2025&team=Phillies)
 - [Yankees](https://kurimareiji.github.io/mlb2025/h2h.html?season=2025&team=Yankees)
 - [Guardians](https://kurimareiji.github.io/mlb2025/h2h.html?season=2025&team=Guardians)
-- [Astros](https://kurimareiji.github.io/mlb2024/h2h.html?season=2025&team=Astros)
+- [Astros](https://kurimareiji.github.io/mlb2025/h2h.html?season=2025&team=Astros)
 
 ## Related Works
 
