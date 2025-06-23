@@ -286,8 +286,8 @@ const customProperties = [
   "padding-left", "padding-right", "padding-top", "padding-bottom"
 ];
 
-const setup = ({ league, division, series, width, height }) => {
-  const params = { league, division, series, width, height };
+const setup = ({ league, division, series, width, height, given }) => {
+  const params = { league, division, series, width, height, given };
 
   params.svg = shadow().querySelector("template").content.cloneNode(true).querySelector("svg");
 
@@ -299,7 +299,7 @@ const setup = ({ league, division, series, width, height }) => {
   const xDomain = [0, numGames];
   const xRange = [Number(params["padding-left"]), width - Number(params["padding-right"])];
 
-  const yMin = Math.min(...series.map(o => o.min));
+  const yMin = given?.yMin || Math.min(...series.map(o => o.min));
   const yMax = Math.max(...series.map(o => o.max));
   const yDomain = [yMax + 2, yMin - 2].map(n => n % 5 === 0 ? n + Math.sign(n) : n);
   const yRange = [Number(params["padding-top"]), height - Number(params["padding-bottom"])];
@@ -326,7 +326,7 @@ const setup = ({ league, division, series, width, height }) => {
 
   const xTics = "0,10,20,30,40,50,60,70,80,90,100,110,120,130,140,150,160,162"
     .split(",")
-    .map((s)=>Number(s))
+    .map((s) => Number(s))
     .filter((n) => n <= xDomain[1])
     .map((n) => ({ x: n, y: yDomain[1] }));
 
@@ -392,7 +392,7 @@ const update_tics = ({ svg, yTics, xTics, xDomain, yDomain, to_vx, to_vy }) => {
   svg.getElementById("xTics").replaceChildren(...xs);
 }
 
-const update_series = ({ svg, to_vx, to_vy, series, xRange }) => {
+const update_series = ({ svg, to_vx, to_vy, series, xRange, given = { 'yMin': -162 } }) => {
   const reversed = series.reverse()
     .map((o) => {
       const d = o.history
@@ -421,7 +421,7 @@ const update_series = ({ svg, to_vx, to_vy, series, xRange }) => {
         text.dataset[k] = v;
       });
       text.setAttribute("x", x);
-      text.setAttribute("y", to_vy(history.at(-1).y));
+      text.setAttribute("y", to_vy(Math.max(given['yMin'], history.at(-1).y)));
       text.classList.add(Teams.code(team));
       return text;
     });
@@ -460,8 +460,8 @@ function fix_overlapping(targets) {
   }
 };
 
-const create_chart = ({ league, division, series, width, height }) => {
-  const params = setup({ league, division, series, width, height });
+const create_chart = ({ league, division, series, width, height, given }) => {
+  const params = setup({ league, division, series, width, height, given });
 
   update_viewBox(params);
   update_bgRect(params);
@@ -520,10 +520,11 @@ function tweet({ league, division, series }) {
 
 async function downloadHandler(detail) {
   const opts = Object.assign({
-    league: "AL",
+    league: "NL",
     division: "West",
     width: 1200,
-    height: 1600,
+    height: 675,
+    given: {},
     filename: "output.png",
   }, detail);
 
@@ -573,8 +574,9 @@ class MlbAbove500 extends HTMLElement {
 
     document.addEventListener("DownloadSVG", ({ detail }) => {
       const opts = Object.assign({
-        league: "AL",
+        league: "NL",
         division: "West",
+        given: {},
       }, detail);
       opts.series = self.series
         .filter(({ team }) => Teams.league(team) === opts.league && Teams.division(team) === opts.division);
