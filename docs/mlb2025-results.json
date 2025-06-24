@@ -9318,5 +9318,77 @@
     "home": "Phillies",
     "score": "1 - 7",
     "status": "Final"
+  },
+  {
+    "gamePk": 777394,
+    "date": "2025-06-23",
+    "road": "Rangers",
+    "home": "Orioles",
+    "score": "0 - 6",
+    "status": "Final"
+  },
+  {
+    "gamePk": 777389,
+    "date": "2025-06-23",
+    "road": "Braves",
+    "home": "Mets",
+    "score": "3 - 2",
+    "status": "Final"
+  },
+  {
+    "gamePk": 777390,
+    "date": "2025-06-23",
+    "road": "Yankees",
+    "home": "Reds",
+    "score": "1 - 6",
+    "status": "Final"
+  },
+  {
+    "gamePk": 777388,
+    "date": "2025-06-23",
+    "road": "Mariners",
+    "home": "Twins",
+    "score": "11 - 2",
+    "status": "Final"
+  },
+  {
+    "gamePk": 777393,
+    "date": "2025-06-23",
+    "road": "Diamondbacks",
+    "home": "White Sox",
+    "score": "10 - 0",
+    "status": "Final"
+  },
+  {
+    "gamePk": 777391,
+    "date": "2025-06-23",
+    "road": "Pirates",
+    "home": "Brewers",
+    "score": "5 - 4",
+    "status": "Final"
+  },
+  {
+    "gamePk": 777392,
+    "date": "2025-06-23",
+    "road": "Cubs",
+    "home": "Cardinals",
+    "score": "2 - 8",
+    "status": "Final"
+  },
+  {
+    "gamePk": 777381,
+    "date": "2025-06-23",
+    "road": "Red Sox",
+    "home": "Angels",
+    "score": "5 - 9",
+    "status": "Final"
+  },
+  {
+    "gamePk": 777382,
+    "date": "2025-06-23",
+    "road": "Nationals",
+    "home": "Padres",
+    "score": "10 - 6",
+    "status": "Final"
   }
 ]
