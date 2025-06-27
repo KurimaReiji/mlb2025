@@ -30108,7 +30108,7 @@
       "venue": "Rate Field",
       "gameNumber": 2,
       "doubleHeader": "Y",
-      "description": "Makeup of 6/18ppd.",
+      "description": "Makeup of 6/18 PPD",
       "gamesInSeries": 3,
       "seriesGameNumber": 3
     },
@@ -32535,15 +32535,19 @@
       "season": "2025",
       "gameDate": "2025-06-26T17:10:00Z",
       "officialDate": "2025-06-26",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
+          "score": 0,
           "team": "Athletics",
+          "isWinner": false,
           "seriesNumber": 26,
           "chartPos": 15
         },
         "home": {
+          "score": 8,
           "team": "Tigers",
+          "isWinner": true,
           "seriesNumber": 26,
           "chartPos": 27
         }
@@ -32557,15 +32561,19 @@
       "season": "2025",
       "gameDate": "2025-06-26T17:10:00Z",
       "officialDate": "2025-06-26",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
+          "score": 6,
           "team": "Blue Jays",
+          "isWinner": true,
           "seriesNumber": 26,
           "chartPos": 20
         },
         "home": {
+          "score": 0,
           "team": "Guardians",
+          "isWinner": false,
           "seriesNumber": 26,
           "chartPos": 10
         }
@@ -32579,15 +32587,19 @@
       "season": "2025",
       "gameDate": "2025-06-26T17:10:00Z",
       "officialDate": "2025-06-26",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
+          "score": 1,
           "team": "Mariners",
+          "isWinner": false,
           "seriesNumber": 26,
           "chartPos": 20
         },
         "home": {
+          "score": 10,
           "team": "Twins",
+          "isWinner": true,
           "seriesNumber": 26,
           "chartPos": 34
         }
@@ -32601,15 +32613,19 @@
       "season": "2025",
       "gameDate": "2025-06-26T18:10:00Z",
       "officialDate": "2025-06-26",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
+          "score": 4,
           "team": "Rays",
+          "isWinner": true,
           "seriesNumber": 26,
           "chartPos": 24
         },
         "home": {
+          "score": 0,
           "team": "Royals",
+          "isWinner": false,
           "seriesNumber": 26,
           "chartPos": 8
         }
@@ -32623,15 +32639,19 @@
       "season": "2025",
       "gameDate": "2025-06-26T18:10:00Z",
       "officialDate": "2025-06-26",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
+          "score": 1,
           "team": "Phillies",
+          "isWinner": false,
           "seriesNumber": 26,
           "chartPos": 38
         },
         "home": {
+          "score": 2,
           "team": "Astros",
+          "isWinner": true,
           "seriesNumber": 26,
           "chartPos": 51
         }
@@ -32645,15 +32665,19 @@
       "season": "2025",
       "gameDate": "2025-06-26T18:15:00Z",
       "officialDate": "2025-06-26",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
+          "score": 3,
           "team": "Cubs",
+          "isWinner": true,
           "seriesNumber": 27,
           "chartPos": 23
         },
         "home": {
+          "score": 0,
           "team": "Cardinals",
+          "isWinner": false,
           "seriesNumber": 26,
           "chartPos": 11
         }
@@ -32667,15 +32691,19 @@
       "season": "2025",
       "gameDate": "2025-06-26T19:10:00Z",
       "officialDate": "2025-06-26",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
+          "score": 3,
           "team": "Dodgers",
+          "isWinner": true,
           "seriesNumber": 27,
           "chartPos": 27
         },
         "home": {
+          "score": 1,
           "team": "Rockies",
+          "isWinner": false,
           "seriesNumber": 26,
           "chartPos": 26
         }
@@ -32689,15 +32717,19 @@
       "season": "2025",
       "gameDate": "2025-06-26T19:45:00Z",
       "officialDate": "2025-06-26",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
+          "score": 12,
           "team": "Marlins",
+          "isWinner": true,
           "seriesNumber": 26,
           "chartPos": 36
         },
         "home": {
+          "score": 5,
           "team": "Giants",
+          "isWinner": false,
           "seriesNumber": 26,
           "chartPos": 4
         }
@@ -32711,15 +32743,19 @@
       "season": "2025",
       "gameDate": "2025-06-26T23:10:00Z",
       "officialDate": "2025-06-26",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
+          "score": 0,
           "team": "Braves",
+          "isWinner": false,
           "seriesNumber": 26,
           "chartPos": 6
         },
         "home": {
+          "score": 4,
           "team": "Mets",
+          "isWinner": true,
           "seriesNumber": 26,
           "chartPos": 2
         }
