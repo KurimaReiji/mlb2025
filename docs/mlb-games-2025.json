@@ -34147,15 +34147,19 @@
       "season": "2025",
       "gameDate": "2025-07-01T19:07:00Z",
       "officialDate": "2025-07-01",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
+          "score": 5,
           "team": "Yankees",
+          "isWinner": false,
           "seriesNumber": 28,
           "chartPos": 14
         },
         "home": {
+          "score": 12,
           "team": "Blue Jays",
+          "isWinner": true,
           "seriesNumber": 28,
           "chartPos": 10
         }
@@ -34165,41 +34169,23 @@
       "seriesGameNumber": 2
     },
     {
-      "gamePk": 777290,
-      "season": "2025",
-      "gameDate": "2025-07-01T22:35:00Z",
-      "officialDate": "2025-07-01",
-      "status": "Scheduled",
-      "teams": {
-        "away": {
-          "team": "Padres",
-          "seriesNumber": 28,
-          "chartPos": 7
-        },
-        "home": {
-          "team": "Phillies",
-          "seriesNumber": 28,
-          "chartPos": 33
-        }
-      },
-      "venue": "Citizens Bank Park",
-      "gamesInSeries": 3,
-      "seriesGameNumber": 2
-    },
-    {
       "gamePk": 777288,
       "season": "2025",
       "gameDate": "2025-07-01T22:40:00Z",
       "officialDate": "2025-07-01",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
+          "score": 0,
           "team": "Cardinals",
+          "isWinner": false,
           "seriesNumber": 28,
           "chartPos": 25
         },
         "home": {
+          "score": 1,
           "team": "Pirates",
+          "isWinner": true,
           "seriesNumber": 28,
           "chartPos": 25
         }
@@ -34213,15 +34199,19 @@
       "season": "2025",
       "gameDate": "2025-07-01T22:40:00Z",
       "officialDate": "2025-07-01",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
+          "score": 0,
           "team": "Twins",
+          "isWinner": false,
           "seriesNumber": 28,
           "chartPos": 49
         },
         "home": {
+          "score": 2,
           "team": "Marlins",
+          "isWinner": true,
           "seriesNumber": 28,
           "chartPos": 46
         }
@@ -34231,41 +34221,23 @@
       "seriesGameNumber": 1
     },
     {
-      "gamePk": 777284,
-      "season": "2025",
-      "gameDate": "2025-07-01T22:45:00Z",
-      "officialDate": "2025-07-01",
-      "status": "Scheduled",
-      "teams": {
-        "away": {
-          "team": "Tigers",
-          "seriesNumber": 28,
-          "chartPos": 52
-        },
-        "home": {
-          "team": "Nationals",
-          "seriesNumber": 28,
-          "chartPos": 44
-        }
-      },
-      "venue": "Nationals Park",
-      "gamesInSeries": 3,
-      "seriesGameNumber": 1
-    },
-    {
       "gamePk": 777286,
       "season": "2025",
       "gameDate": "2025-07-01T23:05:00Z",
       "officialDate": "2025-07-01",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
+          "score": 4,
           "team": "Athletics",
+          "isWinner": true,
           "seriesNumber": 28,
           "chartPos": 7
         },
         "home": {
+          "score": 3,
           "team": "Rays",
+          "isWinner": false,
           "seriesNumber": 28,
           "chartPos": 27
         }
@@ -34279,7 +34251,9 @@
       "season": "2025",
       "gameDate": "2025-07-01T23:10:00Z",
       "officialDate": "2025-07-01",
-      "status": "Scheduled",
+      "resumeDate": "2025-07-02T18:30:00Z",
+      "resumeGameDate": "2025-07-02",
+      "status": "Suspended",
       "teams": {
         "away": {
           "team": "Reds",
@@ -34297,41 +34271,23 @@
       "seriesGameNumber": 2
     },
     {
-      "gamePk": 777289,
-      "season": "2025",
-      "gameDate": "2025-07-01T23:10:00Z",
-      "officialDate": "2025-07-01",
-      "status": "Scheduled",
-      "teams": {
-        "away": {
-          "team": "Brewers",
-          "seriesNumber": 28,
-          "chartPos": 5
-        },
-        "home": {
-          "team": "Mets",
-          "seriesNumber": 28,
-          "chartPos": 21
-        }
-      },
-      "venue": "Citi Field",
-      "gamesInSeries": 3,
-      "seriesGameNumber": 1
-    },
-    {
       "gamePk": 777298,
       "season": "2025",
       "gameDate": "2025-07-01T23:15:00Z",
       "officialDate": "2025-07-01",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
+          "score": 4,
           "team": "Angels",
+          "isWinner": true,
           "seriesNumber": 28,
           "chartPos": 48
         },
         "home": {
+          "score": 0,
           "team": "Braves",
+          "isWinner": false,
           "seriesNumber": 28,
           "chartPos": 39
         }
@@ -34345,15 +34301,19 @@
       "season": "2025",
       "gameDate": "2025-07-02T00:05:00Z",
       "officialDate": "2025-07-01",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
+          "score": 2,
           "team": "Guardians",
+          "isWinner": false,
           "seriesNumber": 28,
           "chartPos": 42
         },
         "home": {
+          "score": 5,
           "team": "Cubs",
+          "isWinner": true,
           "seriesNumber": 29,
           "chartPos": 45
         }
@@ -34367,15 +34327,19 @@
       "season": "2025",
       "gameDate": "2025-07-02T00:05:00Z",
       "officialDate": "2025-07-01",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
+          "score": 2,
           "team": "Orioles",
+          "isWinner": false,
           "seriesNumber": 28,
           "chartPos": 36
         },
         "home": {
+          "score": 10,
           "team": "Rangers",
+          "isWinner": true,
           "seriesNumber": 28,
           "chartPos": 2
         }
@@ -34389,15 +34353,19 @@
       "season": "2025",
       "gameDate": "2025-07-02T00:40:00Z",
       "officialDate": "2025-07-01",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
+          "score": 6,
           "team": "Astros",
+          "isWinner": true,
           "seriesNumber": 28,
           "chartPos": 38
         },
         "home": {
+          "score": 5,
           "team": "Rockies",
+          "isWinner": false,
           "seriesNumber": 28,
           "chartPos": 38
         }
@@ -34411,15 +34379,19 @@
       "season": "2025",
       "gameDate": "2025-07-02T01:40:00Z",
       "officialDate": "2025-07-01",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
+          "score": 6,
           "team": "Royals",
+          "isWinner": true,
           "seriesNumber": 28,
           "chartPos": 33
         },
         "home": {
+          "score": 3,
           "team": "Mariners",
+          "isWinner": false,
           "seriesNumber": 28,
           "chartPos": 17
         }
@@ -34433,15 +34405,19 @@
       "season": "2025",
       "gameDate": "2025-07-02T01:40:00Z",
       "officialDate": "2025-07-01",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
+          "score": 2,
           "team": "Giants",
+          "isWinner": false,
           "seriesNumber": 28,
           "chartPos": 22
         },
         "home": {
+          "score": 8,
           "team": "Diamondbacks",
+          "isWinner": true,
           "seriesNumber": 28,
           "chartPos": 34
         }
@@ -34455,20 +34431,96 @@
       "season": "2025",
       "gameDate": "2025-07-02T02:10:00Z",
       "officialDate": "2025-07-01",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
+          "score": 1,
           "team": "White Sox",
+          "isWinner": false,
           "seriesNumber": 28,
           "chartPos": 39
         },
         "home": {
+          "score": 6,
           "team": "Dodgers",
+          "isWinner": true,
           "seriesNumber": 29,
           "chartPos": 44
         }
       },
       "venue": "Dodger Stadium",
+      "gamesInSeries": 3,
+      "seriesGameNumber": 1
+    },
+    {
+      "gamePk": 777290,
+      "season": "2025",
+      "gameDate": "2025-07-01T22:35:00Z",
+      "officialDate": "2025-07-02",
+      "rescheduleDate": "2025-07-02T22:15:00Z",
+      "rescheduleGameDate": "2025-07-02",
+      "status": "Postponed",
+      "teams": {
+        "away": {
+          "team": "Padres",
+          "seriesNumber": 28,
+          "chartPos": 7
+        },
+        "home": {
+          "team": "Phillies",
+          "seriesNumber": 28,
+          "chartPos": 33
+        }
+      },
+      "venue": "Citizens Bank Park",
+      "gamesInSeries": 3,
+      "seriesGameNumber": 2
+    },
+    {
+      "gamePk": 777284,
+      "season": "2025",
+      "gameDate": "2025-07-01T22:45:00Z",
+      "officialDate": "2025-07-02",
+      "rescheduleDate": "2025-07-02T17:05:00Z",
+      "rescheduleGameDate": "2025-07-02",
+      "status": "Postponed",
+      "teams": {
+        "away": {
+          "team": "Tigers",
+          "seriesNumber": 28,
+          "chartPos": 52
+        },
+        "home": {
+          "team": "Nationals",
+          "seriesNumber": 28,
+          "chartPos": 44
+        }
+      },
+      "venue": "Nationals Park",
+      "gamesInSeries": 3,
+      "seriesGameNumber": 1
+    },
+    {
+      "gamePk": 777289,
+      "season": "2025",
+      "gameDate": "2025-07-01T23:10:00Z",
+      "officialDate": "2025-07-02",
+      "rescheduleDate": "2025-07-02T17:10:00Z",
+      "rescheduleGameDate": "2025-07-02",
+      "status": "Postponed",
+      "teams": {
+        "away": {
+          "team": "Brewers",
+          "seriesNumber": 28,
+          "chartPos": 5
+        },
+        "home": {
+          "team": "Mets",
+          "seriesNumber": 28,
+          "chartPos": 21
+        }
+      },
+      "venue": "Citi Field",
       "gamesInSeries": 3,
       "seriesGameNumber": 1
     },
@@ -34517,6 +34569,55 @@
       "seriesGameNumber": 3
     },
     {
+      "gamePk": 777284,
+      "season": "2025",
+      "gameDate": "2025-07-02T17:05:00Z",
+      "officialDate": "2025-07-02",
+      "rescheduledFrom": "2025-07-01T22:45:00Z",
+      "rescheduledFromDate": "2025-07-01",
+      "status": "Scheduled",
+      "teams": {
+        "away": {
+          "team": "Tigers",
+          "seriesNumber": 28
+        },
+        "home": {
+          "team": "Nationals",
+          "seriesNumber": 28
+        }
+      },
+      "venue": "Nationals Park",
+      "gameNumber": 1,
+      "doubleHeader": "S",
+      "description": "Makeup of 7/1 PPD",
+      "gamesInSeries": 3,
+      "seriesGameNumber": 1
+    },
+    {
+      "gamePk": 777265,
+      "season": "2025",
+      "gameDate": "2025-07-02T22:45:00Z",
+      "officialDate": "2025-07-02",
+      "status": "Scheduled",
+      "teams": {
+        "away": {
+          "team": "Tigers",
+          "seriesNumber": 28,
+          "chartPos": 52
+        },
+        "home": {
+          "team": "Nationals",
+          "seriesNumber": 28,
+          "chartPos": 44
+        }
+      },
+      "venue": "Nationals Park",
+      "gameNumber": 2,
+      "doubleHeader": "S",
+      "gamesInSeries": 3,
+      "seriesGameNumber": 2
+    },
+    {
       "gamePk": 777273,
       "season": "2025",
       "gameDate": "2025-07-02T17:05:00Z",
@@ -34535,6 +34636,104 @@
         }
       },
       "venue": "Citizens Bank Park",
+      "gameNumber": 1,
+      "doubleHeader": "S",
+      "gamesInSeries": 3,
+      "seriesGameNumber": 3
+    },
+    {
+      "gamePk": 777290,
+      "season": "2025",
+      "gameDate": "2025-07-02T22:15:00Z",
+      "officialDate": "2025-07-02",
+      "rescheduledFrom": "2025-07-01T22:35:00Z",
+      "rescheduledFromDate": "2025-07-01",
+      "status": "Scheduled",
+      "teams": {
+        "away": {
+          "team": "Padres",
+          "seriesNumber": 28
+        },
+        "home": {
+          "team": "Phillies",
+          "seriesNumber": 28
+        }
+      },
+      "venue": "Citizens Bank Park",
+      "gameNumber": 2,
+      "doubleHeader": "S",
+      "description": "Makeup of 7/1 PPD",
+      "gamesInSeries": 3,
+      "seriesGameNumber": 3
+    },
+    {
+      "gamePk": 777289,
+      "season": "2025",
+      "gameDate": "2025-07-02T17:10:00Z",
+      "officialDate": "2025-07-02",
+      "rescheduledFrom": "2025-07-01T23:10:00Z",
+      "rescheduledFromDate": "2025-07-01",
+      "status": "Scheduled",
+      "teams": {
+        "away": {
+          "team": "Brewers",
+          "seriesNumber": 28
+        },
+        "home": {
+          "team": "Mets",
+          "seriesNumber": 28
+        }
+      },
+      "venue": "Citi Field",
+      "gameNumber": 1,
+      "doubleHeader": "S",
+      "description": "Makeup of 7/1 PPD",
+      "gamesInSeries": 3,
+      "seriesGameNumber": 1
+    },
+    {
+      "gamePk": 777276,
+      "season": "2025",
+      "gameDate": "2025-07-02T23:10:00Z",
+      "officialDate": "2025-07-02",
+      "status": "Scheduled",
+      "teams": {
+        "away": {
+          "team": "Brewers",
+          "seriesNumber": 28,
+          "chartPos": 5
+        },
+        "home": {
+          "team": "Mets",
+          "seriesNumber": 28,
+          "chartPos": 21
+        }
+      },
+      "venue": "Citi Field",
+      "gameNumber": 2,
+      "doubleHeader": "S",
+      "gamesInSeries": 3,
+      "seriesGameNumber": 2
+    },
+    {
+      "gamePk": 777294,
+      "season": "2025",
+      "gameDate": "2025-07-02T18:30:00Z",
+      "officialDate": "2025-07-01",
+      "resumedFrom": "2025-07-01T23:10:00Z",
+      "resumedFromDate": "2025-07-01",
+      "status": "Suspended",
+      "teams": {
+        "away": {
+          "team": "Reds",
+          "seriesNumber": 28
+        },
+        "home": {
+          "team": "Red Sox",
+          "seriesNumber": 28
+        }
+      },
+      "venue": "Fenway Park",
       "gamesInSeries": 3,
       "seriesGameNumber": 3
     },
@@ -34557,28 +34756,6 @@
         }
       },
       "venue": "loanDepot park",
-      "gamesInSeries": 3,
-      "seriesGameNumber": 2
-    },
-    {
-      "gamePk": 777265,
-      "season": "2025",
-      "gameDate": "2025-07-02T22:45:00Z",
-      "officialDate": "2025-07-02",
-      "status": "Scheduled",
-      "teams": {
-        "away": {
-          "team": "Tigers",
-          "seriesNumber": 28,
-          "chartPos": 52
-        },
-        "home": {
-          "team": "Nationals",
-          "seriesNumber": 28,
-          "chartPos": 44
-        }
-      },
-      "venue": "Nationals Park",
       "gamesInSeries": 3,
       "seriesGameNumber": 2
     },
@@ -34625,28 +34802,6 @@
       "venue": "Fenway Park",
       "gamesInSeries": 3,
       "seriesGameNumber": 3
-    },
-    {
-      "gamePk": 777276,
-      "season": "2025",
-      "gameDate": "2025-07-02T23:10:00Z",
-      "officialDate": "2025-07-02",
-      "status": "Scheduled",
-      "teams": {
-        "away": {
-          "team": "Brewers",
-          "seriesNumber": 28,
-          "chartPos": 5
-        },
-        "home": {
-          "team": "Mets",
-          "seriesNumber": 28,
-          "chartPos": 21
-        }
-      },
-      "venue": "Citi Field",
-      "gamesInSeries": 3,
-      "seriesGameNumber": 2
     },
     {
       "gamePk": 777279,
