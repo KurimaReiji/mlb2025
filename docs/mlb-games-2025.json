@@ -43863,28 +43863,6 @@
       "seriesGameNumber": 3
     },
     {
-      "gamePk": 776890,
-      "season": "2025",
-      "gameDate": "2025-08-03T17:35:00Z",
-      "officialDate": "2025-08-03",
-      "status": "Scheduled",
-      "teams": {
-        "away": {
-          "team": "Tigers",
-          "seriesNumber": 36,
-          "chartPos": 51
-        },
-        "home": {
-          "team": "Phillies",
-          "seriesNumber": 36,
-          "chartPos": 44
-        }
-      },
-      "venue": "Citizens Bank Park",
-      "gamesInSeries": 3,
-      "seriesGameNumber": 3
-    },
-    {
       "gamePk": 776894,
       "season": "2025",
       "gameDate": "2025-08-03T17:35:00Z",
@@ -44125,6 +44103,28 @@
       "venue": "T-Mobile Park",
       "gamesInSeries": 4,
       "seriesGameNumber": 4
+    },
+    {
+      "gamePk": 776890,
+      "season": "2025",
+      "gameDate": "2025-08-03T23:10:00Z",
+      "officialDate": "2025-08-03",
+      "status": "Scheduled",
+      "teams": {
+        "away": {
+          "team": "Tigers",
+          "seriesNumber": 36,
+          "chartPos": 51
+        },
+        "home": {
+          "team": "Phillies",
+          "seriesNumber": 36,
+          "chartPos": 44
+        }
+      },
+      "venue": "Citizens Bank Park",
+      "gamesInSeries": 3,
+      "seriesGameNumber": 3
     },
     {
       "gamePk": 776879,
