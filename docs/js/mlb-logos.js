@@ -229,7 +229,7 @@ const aryLogos = (year = 2023) => {
   const y = Number(year);
   if (y < 2023) {
     // Twins
-    const idxMin = data.findIndex((o) => o.team === "Twins");
+    const idxMin = data.findIndex((o) => o.team === "Twins" && o.years?.includes(y));
     ary[idxMin] = data.find((o) => o.team === "Twins");
   }
   if (y < 2022) {
