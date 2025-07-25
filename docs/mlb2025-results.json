@@ -12286,5 +12286,45 @@
     "home": "Rangers",
     "score": "1 - 2",
     "status": "Final"
+  },
+  {
+    "gamePk": 777019,
+    "date": "2025-07-24",
+    "road": "Orioles",
+    "home": "Guardians",
+    "score": "4 - 3",
+    "status": "Final"
+  },
+  {
+    "gamePk": 777021,
+    "date": "2025-07-24",
+    "road": "Blue Jays",
+    "home": "Tigers",
+    "score": "11 - 4",
+    "status": "Final"
+  },
+  {
+    "gamePk": 777023,
+    "date": "2025-07-24",
+    "road": "Padres",
+    "home": "Cardinals",
+    "score": "7 - 9",
+    "status": "Final"
+  },
+  {
+    "gamePk": 777025,
+    "date": "2025-07-24",
+    "road": "Athletics",
+    "home": "Astros",
+    "score": "5 - 2",
+    "status": "Final"
+  },
+  {
+    "gamePk": 777018,
+    "date": "2025-07-24",
+    "road": "Mariners",
+    "home": "Angels",
+    "score": "4 - 2",
+    "status": "Final"
   }
 ]
