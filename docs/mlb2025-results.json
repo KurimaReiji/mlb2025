@@ -12438,5 +12438,133 @@
     "home": "Giants",
     "score": "8 - 1",
     "status": "Final"
+  },
+  {
+    "gamePk": 777001,
+    "date": "2025-07-26",
+    "road": "Phillies",
+    "home": "Yankees",
+    "score": "9 - 4",
+    "status": "Final"
+  },
+  {
+    "gamePk": 777010,
+    "date": "2025-07-26",
+    "road": "Guardians",
+    "home": "Royals",
+    "score": "3 - 5",
+    "status": "Final"
+  },
+  {
+    "gamePk": 776990,
+    "date": "2025-07-26",
+    "road": "Guardians",
+    "home": "Royals",
+    "score": "6 - 4",
+    "status": "Final"
+  },
+  {
+    "gamePk": 777003,
+    "date": "2025-07-26",
+    "road": "Blue Jays",
+    "home": "Tigers",
+    "score": "6 - 1",
+    "status": "Final"
+  },
+  {
+    "gamePk": 777002,
+    "date": "2025-07-26",
+    "road": "Diamondbacks",
+    "home": "Pirates",
+    "score": "0 - 2",
+    "status": "Final"
+  },
+  {
+    "gamePk": 777000,
+    "date": "2025-07-26",
+    "road": "Rays",
+    "home": "Reds",
+    "score": "2 - 6",
+    "status": "Final"
+  },
+  {
+    "gamePk": 776999,
+    "date": "2025-07-26",
+    "road": "Rockies",
+    "home": "Orioles",
+    "score": "0 - 18",
+    "status": "Final"
+  },
+  {
+    "gamePk": 776993,
+    "date": "2025-07-26",
+    "road": "Braves",
+    "home": "Rangers",
+    "score": "5 - 6",
+    "status": "Final"
+  },
+  {
+    "gamePk": 776991,
+    "date": "2025-07-26",
+    "road": "Athletics",
+    "home": "Astros",
+    "score": "5 - 1",
+    "status": "Final"
+  },
+  {
+    "gamePk": 776997,
+    "date": "2025-07-26",
+    "road": "Nationals",
+    "home": "Twins",
+    "score": "9 - 3",
+    "status": "Final"
+  },
+  {
+    "gamePk": 776994,
+    "date": "2025-07-26",
+    "road": "Cubs",
+    "home": "White Sox",
+    "score": "6 - 1",
+    "status": "Final"
+  },
+  {
+    "gamePk": 776996,
+    "date": "2025-07-26",
+    "road": "Marlins",
+    "home": "Brewers",
+    "score": "7 - 4",
+    "status": "Final"
+  },
+  {
+    "gamePk": 776998,
+    "date": "2025-07-26",
+    "road": "Dodgers",
+    "home": "Red Sox",
+    "score": "2 - 4",
+    "status": "Final"
+  },
+  {
+    "gamePk": 776992,
+    "date": "2025-07-26",
+    "road": "Padres",
+    "home": "Cardinals",
+    "score": "3 - 1",
+    "status": "Final"
+  },
+  {
+    "gamePk": 776985,
+    "date": "2025-07-26",
+    "road": "Mets",
+    "home": "Giants",
+    "score": "2 - 1",
+    "status": "Final"
+  },
+  {
+    "gamePk": 776995,
+    "date": "2025-07-26",
+    "road": "Mariners",
+    "home": "Angels",
+    "score": "7 - 2",
+    "status": "Final"
   }
 ]
