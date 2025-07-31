@@ -12934,5 +12934,125 @@
     "home": "Athletics",
     "score": "1 - 6",
     "status": "Final"
+  },
+  {
+    "gamePk": 776948,
+    "date": "2025-07-30",
+    "road": "Blue Jays",
+    "home": "Orioles",
+    "score": "9 - 8",
+    "status": "Final"
+  },
+  {
+    "gamePk": 776940,
+    "date": "2025-07-30",
+    "road": "Diamondbacks",
+    "home": "Tigers",
+    "score": "2 - 7",
+    "status": "Final"
+  },
+  {
+    "gamePk": 776935,
+    "date": "2025-07-30",
+    "road": "Red Sox",
+    "home": "Twins",
+    "score": "13 - 1",
+    "status": "Final"
+  },
+  {
+    "gamePk": 776937,
+    "date": "2025-07-30",
+    "road": "Nationals",
+    "home": "Astros",
+    "score": "1 - 9",
+    "status": "Final"
+  },
+  {
+    "gamePk": 776936,
+    "date": "2025-07-30",
+    "road": "Braves",
+    "home": "Royals",
+    "score": "0 - 1",
+    "status": "Final"
+  },
+  {
+    "gamePk": 776939,
+    "date": "2025-07-30",
+    "road": "Phillies",
+    "home": "White Sox",
+    "score": "3 - 9",
+    "status": "Final"
+  },
+  {
+    "gamePk": 776929,
+    "date": "2025-07-30",
+    "road": "Cubs",
+    "home": "Brewers",
+    "score": "10 - 3",
+    "status": "Final"
+  },
+  {
+    "gamePk": 776933,
+    "date": "2025-07-30",
+    "road": "Pirates",
+    "home": "Giants",
+    "score": "2 - 1",
+    "status": "Final"
+  },
+  {
+    "gamePk": 776931,
+    "date": "2025-07-30",
+    "road": "Mets",
+    "home": "Padres",
+    "score": "0 - 5",
+    "status": "Final"
+  },
+  {
+    "gamePk": 776942,
+    "date": "2025-07-30",
+    "road": "Rockies",
+    "home": "Guardians",
+    "score": "0 - 5",
+    "status": "Final"
+  },
+  {
+    "gamePk": 776938,
+    "date": "2025-07-30",
+    "road": "Rays",
+    "home": "Yankees",
+    "score": "4 - 5",
+    "status": "Final"
+  },
+  {
+    "gamePk": 776941,
+    "date": "2025-07-30",
+    "road": "Dodgers",
+    "home": "Reds",
+    "score": "2 - 5",
+    "status": "Final"
+  },
+  {
+    "gamePk": 776934,
+    "date": "2025-07-30",
+    "road": "Marlins",
+    "home": "Cardinals",
+    "score": "2 - 0",
+    "status": "Final"
+  },
+  {
+    "gamePk": 776932,
+    "date": "2025-07-30",
+    "road": "Rangers",
+    "home": "Angels",
+    "score": "6 - 3",
+    "status": "Final"
+  },
+  {
+    "gamePk": 776930,
+    "date": "2025-07-30",
+    "road": "Mariners",
+    "home": "Athletics",
+    "score": "4 - 5",
+    "status": "Final"
   }
 ]
