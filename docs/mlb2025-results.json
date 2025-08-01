@@ -13054,5 +13054,29 @@
     "home": "Athletics",
     "score": "4 - 5",
     "status": "Final"
+  },
+  {
+    "gamePk": 776927,
+    "date": "2025-07-31",
+    "road": "Rays",
+    "home": "Yankees",
+    "score": "4 - 7",
+    "status": "Final"
+  },
+  {
+    "gamePk": 776928,
+    "date": "2025-07-31",
+    "road": "Braves",
+    "home": "Reds",
+    "score": "12 - 11",
+    "status": "Final"
+  },
+  {
+    "gamePk": 776923,
+    "date": "2025-07-31",
+    "road": "Rangers",
+    "home": "Mariners",
+    "score": "0 - 6",
+    "status": "Final"
   }
 ]
