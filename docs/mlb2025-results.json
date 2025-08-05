@@ -13430,5 +13430,109 @@
     "home": "Phillies",
     "score": "0 - 2",
     "status": "Final"
+  },
+  {
+    "gamePk": 776879,
+    "date": "2025-08-04",
+    "road": "Giants",
+    "home": "Pirates",
+    "score": "4 - 5",
+    "status": "Final"
+  },
+  {
+    "gamePk": 776874,
+    "date": "2025-08-04",
+    "road": "Twins",
+    "home": "Tigers",
+    "score": "3 - 6",
+    "status": "Final"
+  },
+  {
+    "gamePk": 776875,
+    "date": "2025-08-04",
+    "road": "Astros",
+    "home": "Marlins",
+    "score": "8 - 2",
+    "status": "Final"
+  },
+  {
+    "gamePk": 776877,
+    "date": "2025-08-04",
+    "road": "Orioles",
+    "home": "Phillies",
+    "score": "3 - 13",
+    "status": "Final"
+  },
+  {
+    "gamePk": 776880,
+    "date": "2025-08-04",
+    "road": "Royals",
+    "home": "Red Sox",
+    "score": "5 - 8",
+    "status": "Final"
+  },
+  {
+    "gamePk": 776876,
+    "date": "2025-08-04",
+    "road": "Guardians",
+    "home": "Mets",
+    "score": "7 - 6",
+    "status": "Final"
+  },
+  {
+    "gamePk": 776882,
+    "date": "2025-08-04",
+    "road": "Brewers",
+    "home": "Braves",
+    "score": "3 - 1",
+    "status": "Final"
+  },
+  {
+    "gamePk": 776878,
+    "date": "2025-08-04",
+    "road": "Reds",
+    "home": "Cubs",
+    "score": "3 - 2",
+    "status": "Final"
+  },
+  {
+    "gamePk": 776871,
+    "date": "2025-08-04",
+    "road": "Yankees",
+    "home": "Rangers",
+    "score": "5 - 8",
+    "status": "Final"
+  },
+  {
+    "gamePk": 776872,
+    "date": "2025-08-04",
+    "road": "Blue Jays",
+    "home": "Rockies",
+    "score": "15 - 1",
+    "status": "Final"
+  },
+  {
+    "gamePk": 776867,
+    "date": "2025-08-04",
+    "road": "Rays",
+    "home": "Angels",
+    "score": "1 - 5",
+    "status": "Final"
+  },
+  {
+    "gamePk": 776873,
+    "date": "2025-08-04",
+    "road": "Padres",
+    "home": "Diamondbacks",
+    "score": "2 - 6",
+    "status": "Final"
+  },
+  {
+    "gamePk": 776870,
+    "date": "2025-08-04",
+    "road": "Cardinals",
+    "home": "Dodgers",
+    "score": "3 - 2",
+    "status": "Final"
   }
 ]
