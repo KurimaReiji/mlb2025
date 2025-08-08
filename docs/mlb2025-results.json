@@ -13774,5 +13774,37 @@
     "home": "Mariners",
     "score": "6 - 8",
     "status": "Final"
+  },
+  {
+    "gamePk": 776837,
+    "date": "2025-08-07",
+    "road": "Athletics",
+    "home": "Nationals",
+    "score": "6 - 0",
+    "status": "Final"
+  },
+  {
+    "gamePk": 776830,
+    "date": "2025-08-07",
+    "road": "White Sox",
+    "home": "Mariners",
+    "score": "3 - 4",
+    "status": "Final"
+  },
+  {
+    "gamePk": 776840,
+    "date": "2025-08-07",
+    "road": "Reds",
+    "home": "Pirates",
+    "score": "0 - 7",
+    "status": "Final"
+  },
+  {
+    "gamePk": 776842,
+    "date": "2025-08-07",
+    "road": "Marlins",
+    "home": "Braves",
+    "score": "6 - 8",
+    "status": "Final"
   }
 ]
