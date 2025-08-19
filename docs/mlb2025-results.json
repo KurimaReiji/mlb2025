@@ -14918,5 +14918,101 @@
     "home": "Mets",
     "score": "3 - 7",
     "status": "Final"
+  },
+  {
+    "gamePk": 777459,
+    "date": "2025-08-18",
+    "road": "Brewers",
+    "home": "Cubs",
+    "score": "7 - 0",
+    "status": "Final"
+  },
+  {
+    "gamePk": 776692,
+    "date": "2025-08-18",
+    "road": "Astros",
+    "home": "Tigers",
+    "score": "0 - 10",
+    "status": "Final"
+  },
+  {
+    "gamePk": 776694,
+    "date": "2025-08-18",
+    "road": "Blue Jays",
+    "home": "Pirates",
+    "score": "2 - 5",
+    "status": "Final"
+  },
+  {
+    "gamePk": 776688,
+    "date": "2025-08-18",
+    "road": "Cardinals",
+    "home": "Marlins",
+    "score": "8 - 3",
+    "status": "Final"
+  },
+  {
+    "gamePk": 776689,
+    "date": "2025-08-18",
+    "road": "Mariners",
+    "home": "Phillies",
+    "score": "7 - 12",
+    "status": "Final"
+  },
+  {
+    "gamePk": 776695,
+    "date": "2025-08-18",
+    "road": "Orioles",
+    "home": "Red Sox",
+    "score": "6 - 3",
+    "status": "Final"
+  },
+  {
+    "gamePk": 776696,
+    "date": "2025-08-18",
+    "road": "White Sox",
+    "home": "Braves",
+    "score": "13 - 9",
+    "status": "Final"
+  },
+  {
+    "gamePk": 776690,
+    "date": "2025-08-18",
+    "road": "Rangers",
+    "home": "Royals",
+    "score": "3 - 4",
+    "status": "Final"
+  },
+  {
+    "gamePk": 776693,
+    "date": "2025-08-18",
+    "road": "Dodgers",
+    "home": "Rockies",
+    "score": "3 - 4",
+    "status": "Final"
+  },
+  {
+    "gamePk": 776681,
+    "date": "2025-08-18",
+    "road": "Reds",
+    "home": "Angels",
+    "score": "4 - 1",
+    "status": "Final"
+  },
+  {
+    "gamePk": 776682,
+    "date": "2025-08-18",
+    "road": "Guardians",
+    "home": "Diamondbacks",
+    "score": "3 - 1",
+    "status": "Final"
+  },
+  {
+    "gamePk": 776683,
+    "date": "2025-08-18",
+    "road": "Giants",
+    "home": "Padres",
+    "score": "4 - 3",
+    "status": "Final"
   }
 ]
