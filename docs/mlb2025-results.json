@@ -15678,5 +15678,109 @@
     "home": "Yankees",
     "score": "2 - 7",
     "status": "Final"
+  },
+  {
+    "gamePk": 776604,
+    "date": "2025-08-25",
+    "road": "Red Sox",
+    "home": "Orioles",
+    "score": "4 - 3",
+    "status": "Final"
+  },
+  {
+    "gamePk": 776601,
+    "date": "2025-08-25",
+    "road": "Rays",
+    "home": "Guardians",
+    "score": "9 - 0",
+    "status": "Final"
+  },
+  {
+    "gamePk": 776600,
+    "date": "2025-08-25",
+    "road": "Braves",
+    "home": "Marlins",
+    "score": "1 - 2",
+    "status": "Final"
+  },
+  {
+    "gamePk": 776597,
+    "date": "2025-08-25",
+    "road": "Nationals",
+    "home": "Yankees",
+    "score": "5 - 10",
+    "status": "Final"
+  },
+  {
+    "gamePk": 776596,
+    "date": "2025-08-25",
+    "road": "Twins",
+    "home": "Blue Jays",
+    "score": "4 - 10",
+    "status": "Final"
+  },
+  {
+    "gamePk": 776598,
+    "date": "2025-08-25",
+    "road": "Phillies",
+    "home": "Mets",
+    "score": "3 - 13",
+    "status": "Final"
+  },
+  {
+    "gamePk": 776599,
+    "date": "2025-08-25",
+    "road": "Royals",
+    "home": "White Sox",
+    "score": "0 - 7",
+    "status": "Final"
+  },
+  {
+    "gamePk": 776593,
+    "date": "2025-08-25",
+    "road": "Diamondbacks",
+    "home": "Brewers",
+    "score": "5 - 7",
+    "status": "Final"
+  },
+  {
+    "gamePk": 776589,
+    "date": "2025-08-25",
+    "road": "Pirates",
+    "home": "Cardinals",
+    "score": "6 - 7",
+    "status": "Final"
+  },
+  {
+    "gamePk": 776592,
+    "date": "2025-08-25",
+    "road": "Angels",
+    "home": "Rangers",
+    "score": "4 - 0",
+    "status": "Final"
+  },
+  {
+    "gamePk": 776595,
+    "date": "2025-08-25",
+    "road": "Padres",
+    "home": "Mariners",
+    "score": "6 - 9",
+    "status": "Final"
+  },
+  {
+    "gamePk": 776590,
+    "date": "2025-08-25",
+    "road": "Tigers",
+    "home": "Athletics",
+    "score": "3 - 8",
+    "status": "Final"
+  },
+  {
+    "gamePk": 776594,
+    "date": "2025-08-25",
+    "road": "Reds",
+    "home": "Dodgers",
+    "score": "0 - 7",
+    "status": "Final"
   }
 ]
