@@ -55304,15 +55304,19 @@
       "season": "2025",
       "gameDate": "2025-09-02T22:40:00Z",
       "officialDate": "2025-09-02",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
+          "score": 12,
           "team": "Mets",
+          "isWinner": true,
           "seriesNumber": 45,
           "chartPos": 44
         },
         "home": {
+          "score": 5,
           "team": "Tigers",
+          "isWinner": false,
           "seriesNumber": 45,
           "chartPos": 50
         }
@@ -55326,15 +55330,19 @@
       "season": "2025",
       "gameDate": "2025-09-02T22:40:00Z",
       "officialDate": "2025-09-02",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
+          "score": 7,
           "team": "Dodgers",
+          "isWinner": false,
           "seriesNumber": 46,
           "chartPos": 19
         },
         "home": {
+          "score": 9,
           "team": "Pirates",
+          "isWinner": true,
           "seriesNumber": 45,
           "chartPos": 32
         }
@@ -55348,15 +55356,19 @@
       "season": "2025",
       "gameDate": "2025-09-02T22:40:00Z",
       "officialDate": "2025-09-02",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
+          "score": 12,
           "team": "Blue Jays",
+          "isWinner": true,
           "seriesNumber": 45,
           "chartPos": 43
         },
         "home": {
+          "score": 9,
           "team": "Reds",
+          "isWinner": false,
           "seriesNumber": 45,
           "chartPos": 52
         }
@@ -55370,15 +55382,19 @@
       "season": "2025",
       "gameDate": "2025-09-02T22:45:00Z",
       "officialDate": "2025-09-02",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
+          "score": 7,
           "team": "Guardians",
+          "isWinner": false,
           "seriesNumber": 45,
           "chartPos": 4
         },
         "home": {
+          "score": 11,
           "team": "Red Sox",
+          "isWinner": true,
           "seriesNumber": 45,
           "chartPos": 20
         }
@@ -55392,15 +55408,19 @@
       "season": "2025",
       "gameDate": "2025-09-02T22:45:00Z",
       "officialDate": "2025-09-02",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
+          "score": 2,
           "team": "Marlins",
+          "isWinner": false,
           "seriesNumber": 45,
           "chartPos": 15
         },
         "home": {
+          "score": 5,
           "team": "Nationals",
+          "isWinner": true,
           "seriesNumber": 45,
           "chartPos": 7
         }
@@ -55414,15 +55434,19 @@
       "season": "2025",
       "gameDate": "2025-09-02T23:35:00Z",
       "officialDate": "2025-09-02",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
+          "score": 5,
           "team": "Mariners",
+          "isWinner": false,
           "seriesNumber": 45,
           "chartPos": 8
         },
         "home": {
+          "score": 6,
           "team": "Rays",
+          "isWinner": true,
           "seriesNumber": 45,
           "chartPos": 34
         }
@@ -55436,15 +55460,19 @@
       "season": "2025",
       "gameDate": "2025-09-02T23:40:00Z",
       "officialDate": "2025-09-02",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
+          "score": 5,
           "team": "Angels",
+          "isWinner": true,
           "seriesNumber": 45,
           "chartPos": 17
         },
         "home": {
+          "score": 1,
           "team": "Royals",
+          "isWinner": false,
           "seriesNumber": 45,
           "chartPos": 31
         }
@@ -55458,15 +55486,19 @@
       "season": "2025",
       "gameDate": "2025-09-02T23:40:00Z",
       "officialDate": "2025-09-02",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
+          "score": 3,
           "team": "Braves",
+          "isWinner": false,
           "seriesNumber": 45,
           "chartPos": 17
         },
         "home": {
+          "score": 4,
           "team": "Cubs",
+          "isWinner": true,
           "seriesNumber": 46,
           "chartPos": 1
         }
@@ -55480,15 +55512,19 @@
       "season": "2025",
       "gameDate": "2025-09-02T23:40:00Z",
       "officialDate": "2025-09-02",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
+          "score": 12,
           "team": "White Sox",
+          "isWinner": true,
           "seriesNumber": 45,
           "chartPos": 26
         },
         "home": {
+          "score": 3,
           "team": "Twins",
+          "isWinner": false,
           "seriesNumber": 45,
           "chartPos": 14
         }
@@ -55502,15 +55538,19 @@
       "season": "2025",
       "gameDate": "2025-09-02T23:45:00Z",
       "officialDate": "2025-09-02",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
+          "score": 1,
           "team": "Athletics",
+          "isWinner": false,
           "seriesNumber": 45,
           "chartPos": 47
         },
         "home": {
+          "score": 2,
           "team": "Cardinals",
+          "isWinner": true,
           "seriesNumber": 45,
           "chartPos": 37
         }
@@ -55524,15 +55564,19 @@
       "season": "2025",
       "gameDate": "2025-09-03T00:10:00Z",
       "officialDate": "2025-09-02",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
+          "score": 7,
           "team": "Yankees",
+          "isWinner": true,
           "seriesNumber": 45,
           "chartPos": 30
         },
         "home": {
+          "score": 1,
           "team": "Astros",
+          "isWinner": false,
           "seriesNumber": 45,
           "chartPos": 6
         }
@@ -55546,15 +55590,19 @@
       "season": "2025",
       "gameDate": "2025-09-03T00:40:00Z",
       "officialDate": "2025-09-02",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
+          "score": 7,
           "team": "Giants",
+          "isWinner": true,
           "seriesNumber": 45,
           "chartPos": 27
         },
         "home": {
+          "score": 4,
           "team": "Rockies",
+          "isWinner": false,
           "seriesNumber": 45,
           "chartPos": 35
         }
@@ -55568,15 +55616,19 @@
       "season": "2025",
       "gameDate": "2025-09-03T01:40:00Z",
       "officialDate": "2025-09-02",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
+          "score": 6,
           "team": "Orioles",
+          "isWinner": true,
           "seriesNumber": 45,
           "chartPos": 40
         },
         "home": {
+          "score": 2,
           "team": "Padres",
+          "isWinner": false,
           "seriesNumber": 45,
           "chartPos": 48
         }
@@ -55590,15 +55642,19 @@
       "season": "2025",
       "gameDate": "2025-09-03T01:40:00Z",
       "officialDate": "2025-09-02",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
+          "score": 3,
           "team": "Rangers",
+          "isWinner": false,
           "seriesNumber": 45,
           "chartPos": 38
         },
         "home": {
+          "score": 5,
           "team": "Diamondbacks",
+          "isWinner": true,
           "seriesNumber": 45,
           "chartPos": 42
         }
