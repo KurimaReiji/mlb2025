@@ -16782,5 +16782,53 @@
     "home": "Rockies",
     "score": "10 - 8",
     "status": "Final"
+  },
+  {
+    "gamePk": 776459,
+    "date": "2025-09-04",
+    "road": "Phillies",
+    "home": "Brewers",
+    "score": "2 - 0",
+    "status": "Final"
+  },
+  {
+    "gamePk": 776461,
+    "date": "2025-09-04",
+    "road": "Dodgers",
+    "home": "Pirates",
+    "score": "3 - 5",
+    "status": "Final"
+  },
+  {
+    "gamePk": 776458,
+    "date": "2025-09-04",
+    "road": "Guardians",
+    "home": "Rays",
+    "score": "2 - 4",
+    "status": "Final"
+  },
+  {
+    "gamePk": 776463,
+    "date": "2025-09-04",
+    "road": "Angels",
+    "home": "Royals",
+    "score": "3 - 4",
+    "status": "Final"
+  },
+  {
+    "gamePk": 776462,
+    "date": "2025-09-04",
+    "road": "White Sox",
+    "home": "Twins",
+    "score": "11 - 8",
+    "status": "Final"
+  },
+  {
+    "gamePk": 776464,
+    "date": "2025-09-04",
+    "road": "Yankees",
+    "home": "Astros",
+    "score": "8 - 4",
+    "status": "Final"
   }
 ]

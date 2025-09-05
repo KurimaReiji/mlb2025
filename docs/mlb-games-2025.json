@@ -56058,15 +56058,19 @@
       "season": "2025",
       "gameDate": "2025-09-04T20:10:00Z",
       "officialDate": "2025-09-04",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
+          "score": 2,
           "team": "Phillies",
+          "isWinner": true,
           "seriesNumber": 45,
           "chartPos": 22
         },
         "home": {
+          "score": 0,
           "team": "Brewers",
+          "isWinner": false,
           "seriesNumber": 45,
           "chartPos": 8
         }
@@ -56080,15 +56084,19 @@
       "season": "2025",
       "gameDate": "2025-09-04T22:40:00Z",
       "officialDate": "2025-09-04",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
+          "score": 3,
           "team": "Dodgers",
+          "isWinner": false,
           "seriesNumber": 46,
           "chartPos": 19
         },
         "home": {
+          "score": 5,
           "team": "Pirates",
+          "isWinner": true,
           "seriesNumber": 45,
           "chartPos": 32
         }
@@ -56102,15 +56110,19 @@
       "season": "2025",
       "gameDate": "2025-09-04T23:35:00Z",
       "officialDate": "2025-09-04",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
+          "score": 2,
           "team": "Guardians",
+          "isWinner": false,
           "seriesNumber": 46,
           "chartPos": 8
         },
         "home": {
+          "score": 4,
           "team": "Rays",
+          "isWinner": true,
           "seriesNumber": 46,
           "chartPos": 20
         }
@@ -56124,15 +56136,19 @@
       "season": "2025",
       "gameDate": "2025-09-04T23:40:00Z",
       "officialDate": "2025-09-04",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
+          "score": 3,
           "team": "Angels",
+          "isWinner": false,
           "seriesNumber": 45,
           "chartPos": 17
         },
         "home": {
+          "score": 4,
           "team": "Royals",
+          "isWinner": true,
           "seriesNumber": 45,
           "chartPos": 31
         }
@@ -56146,15 +56162,19 @@
       "season": "2025",
       "gameDate": "2025-09-04T23:40:00Z",
       "officialDate": "2025-09-04",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
+          "score": 11,
           "team": "White Sox",
+          "isWinner": true,
           "seriesNumber": 45,
           "chartPos": 26
         },
         "home": {
+          "score": 8,
           "team": "Twins",
+          "isWinner": false,
           "seriesNumber": 45,
           "chartPos": 14
         }
@@ -56168,15 +56188,19 @@
       "season": "2025",
       "gameDate": "2025-09-04T23:40:00Z",
       "officialDate": "2025-09-04",
-      "status": "Scheduled",
+      "status": "Final",
       "teams": {
         "away": {
+          "score": 8,
           "team": "Yankees",
+          "isWinner": true,
           "seriesNumber": 45,
           "chartPos": 30
         },
         "home": {
+          "score": 4,
           "team": "Astros",
+          "isWinner": false,
           "seriesNumber": 45,
           "chartPos": 6
         }
@@ -61176,28 +61200,6 @@
       "seriesGameNumber": 3
     },
     {
-      "gamePk": 776228,
-      "season": "2025",
-      "gameDate": "2025-09-21T18:10:00Z",
-      "officialDate": "2025-09-21",
-      "status": "Scheduled",
-      "teams": {
-        "away": {
-          "team": "Mariners",
-          "seriesNumber": 50,
-          "chartPos": 28
-        },
-        "home": {
-          "team": "Astros",
-          "seriesNumber": 50,
-          "chartPos": 32
-        }
-      },
-      "venue": "Daikin Park",
-      "gamesInSeries": 3,
-      "seriesGameNumber": 3
-    },
-    {
       "gamePk": 776229,
       "season": "2025",
       "gameDate": "2025-09-21T18:10:00Z",
@@ -61370,6 +61372,28 @@
         }
       },
       "venue": "Chase Field",
+      "gamesInSeries": 3,
+      "seriesGameNumber": 3
+    },
+    {
+      "gamePk": 776228,
+      "season": "2025",
+      "gameDate": "2025-09-21T23:10:00Z",
+      "officialDate": "2025-09-21",
+      "status": "Scheduled",
+      "teams": {
+        "away": {
+          "team": "Mariners",
+          "seriesNumber": 50,
+          "chartPos": 28
+        },
+        "home": {
+          "team": "Astros",
+          "seriesNumber": 50,
+          "chartPos": 32
+        }
+      },
+      "venue": "Daikin Park",
       "gamesInSeries": 3,
       "seriesGameNumber": 3
     },
