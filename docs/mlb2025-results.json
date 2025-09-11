@@ -17398,5 +17398,125 @@
     "home": "Dodgers",
     "score": "2 - 7",
     "status": "Final"
+  },
+  {
+    "gamePk": 776375,
+    "date": "2025-09-10",
+    "road": "Brewers",
+    "home": "Rangers",
+    "score": "3 - 6",
+    "status": "Final"
+  },
+  {
+    "gamePk": 776379,
+    "date": "2025-09-10",
+    "road": "Red Sox",
+    "home": "Athletics",
+    "score": "4 - 5",
+    "status": "Final"
+  },
+  {
+    "gamePk": 776374,
+    "date": "2025-09-10",
+    "road": "Diamondbacks",
+    "home": "Giants",
+    "score": "5 - 3",
+    "status": "Final"
+  },
+  {
+    "gamePk": 776376,
+    "date": "2025-09-10",
+    "road": "Twins",
+    "home": "Angels",
+    "score": "3 - 4",
+    "status": "Final"
+  },
+  {
+    "gamePk": 776387,
+    "date": "2025-09-10",
+    "road": "Pirates",
+    "home": "Orioles",
+    "score": "1 - 2",
+    "status": "Final"
+  },
+  {
+    "gamePk": 776382,
+    "date": "2025-09-10",
+    "road": "Royals",
+    "home": "Guardians",
+    "score": "4 - 3",
+    "status": "Final"
+  },
+  {
+    "gamePk": 776386,
+    "date": "2025-09-10",
+    "road": "Nationals",
+    "home": "Marlins",
+    "score": "3 - 8",
+    "status": "Final"
+  },
+  {
+    "gamePk": 776384,
+    "date": "2025-09-10",
+    "road": "Mets",
+    "home": "Phillies",
+    "score": "3 - 11",
+    "status": "Final"
+  },
+  {
+    "gamePk": 776383,
+    "date": "2025-09-10",
+    "road": "Tigers",
+    "home": "Yankees",
+    "score": "11 - 1",
+    "status": "Final"
+  },
+  {
+    "gamePk": 776385,
+    "date": "2025-09-10",
+    "road": "Astros",
+    "home": "Blue Jays",
+    "score": "3 - 2",
+    "status": "Final"
+  },
+  {
+    "gamePk": 776381,
+    "date": "2025-09-10",
+    "road": "Cubs",
+    "home": "Braves",
+    "score": "3 - 2",
+    "status": "Final"
+  },
+  {
+    "gamePk": 776378,
+    "date": "2025-09-10",
+    "road": "Rays",
+    "home": "White Sox",
+    "score": "5 - 6",
+    "status": "Final"
+  },
+  {
+    "gamePk": 776377,
+    "date": "2025-09-10",
+    "road": "Reds",
+    "home": "Padres",
+    "score": "2 - 1",
+    "status": "Final"
+  },
+  {
+    "gamePk": 776373,
+    "date": "2025-09-10",
+    "road": "Cardinals",
+    "home": "Mariners",
+    "score": "2 - 4",
+    "status": "Final"
+  },
+  {
+    "gamePk": 776380,
+    "date": "2025-09-10",
+    "road": "Rockies",
+    "home": "Dodgers",
+    "score": "0 - 9",
+    "status": "Final"
   }
 ]
