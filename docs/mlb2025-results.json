@@ -18718,5 +18718,29 @@
     "home": "Rays",
     "score": "3 - 7",
     "status": "Final"
+  },
+  {
+    "gamePk": 776221,
+    "date": "2025-09-22",
+    "road": "Nationals",
+    "home": "Braves",
+    "score": "5 - 11",
+    "status": "Final"
+  },
+  {
+    "gamePk": 776222,
+    "date": "2025-09-22",
+    "road": "Brewers",
+    "home": "Padres",
+    "score": "4 - 5",
+    "status": "Final"
+  },
+  {
+    "gamePk": 776220,
+    "date": "2025-09-22",
+    "road": "Cardinals",
+    "home": "Giants",
+    "score": "6 - 5",
+    "status": "Final"
   }
 ]
