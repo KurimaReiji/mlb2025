@@ -254,8 +254,23 @@ const transform_to_viewport = (domain, range, x) => {
   return (x) => trunc(range[0] + (rLength * (x - domain[0])) / dLength);
 }
 
+function byTiebreaker(a, b) {
+  // TOR > NYY, CLE > DET, AZ > SF
+  const teamOrder = {
+    "Blue Jays": -1,
+    "Yankees": 0,
+    "Guardians": -1,
+    "Tigers": 0,
+    "Diamondbacks": -1,
+    "Giants": 0,
+  }
+  const [aa, bb] = [a, b].map((nickname) => teamOrder[nickname] ?? 0);
+  return aa - bb;
+}
+
 const make_series = (games) => {
   return Teams.all()
+    .sort(byTiebreaker)
     .map((team) => {
       const myGames = games.filter((g) => g.isGameOf(team));
       const win = myGames.filter((g) => g.winner === team).length;
