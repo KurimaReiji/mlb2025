@@ -136,6 +136,7 @@ async function get_today(season) {
     .then((res) => res.json())
     .then((data) => {
       if (data.dates.length === 0) return [];
+      return [];
       return data
         .dates[0].games
         .filter((g) => g.seriesDescription === "Regular Season")
