@@ -23,6 +23,8 @@ Click on each dot to display the series details.
 - [Guardians](https://kurimareiji.github.io/mlb2025/h2h.html?season=2025&team=Guardians)
 - [Astros](https://kurimareiji.github.io/mlb2025/h2h.html?season=2025&team=Astros)
 
+## [The Best Record in Baseball](https://kurimareiji.github.io/mlb2025/bestRecord.html)
+
 ## Related Works
 
 - [mlb2024](https://github.com/KurimaReiji/mlb2024)
