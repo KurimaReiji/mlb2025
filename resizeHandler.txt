@@ -1,0 +1,46 @@
+diff --git a/docs/js/mlb-above500.js b/docs/js/mlb-above500.js
+index c6e1e24..2a6eeae 100644
+--- a/docs/js/mlb-above500.js
++++ b/docs/js/mlb-above500.js
+@@ -518,6 +518,24 @@ function tweet({ league, division, series }) {
+   return [title, tw.join("\n"), url].join("\n");
+ }
+ 
++async function resizeHandler(detail) {
++  const opts = Object.assign({
++    league: "NL",
++    division: "West",
++    width: 800,
++    height: 300,
++    given: {},
++  }, detail);
++  console.log('resizeHandler');
++  console.log(opts);
++
++  const svg = create_chart(opts);
++  document.body.prepend(svg);
++  setTimeout(() => {
++    svg.remove();
++  }, 10000);
++}
++
+ async function downloadHandler(detail) {
+   const opts = Object.assign({
+     league: "NL",
+@@ -583,6 +601,16 @@ class MlbAbove500 extends HTMLElement {
+       downloadHandler(opts);
+     });
+ 
++    document.addEventListener("ResizeSVG", ({ detail }) => {
++      const opts = Object.assign({
++        league: "NL",
++        division: "West",
++      }, detail);
++      opts.series = self.series
++        .filter(({ team }) => Teams.league(team) === opts.league && Teams.division(team) === opts.division);
++      resizeHandler(opts);
++    });
++
+     this.render();
+   }
+ 
