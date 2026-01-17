@@ -125,9 +125,9 @@
       if (!teamsAvailable.includes(params.get("team"))) {
         params.set("team", "Dodgers");
       } else {
-        if (["2018", "2019"].includes(params.get("season")) && params.get("team") === "Guardians") {
+        if (["2018", "2019", "2020", "2021"].includes(params.get("season")) && params.get("team") === "Guardians") {
           params.set("team", "Indians");
-        } else if (!["2018", "2019"].includes(params.get("season")) && params.get("team") === "Indians") {
+        } else if (!["2018", "2019", "2020", "2021"].includes(params.get("season")) && params.get("team") === "Indians") {
           params.set("team", "Guardians");
         }
       }
