@@ -27,6 +27,8 @@ Click on each dot to display the series details.
 
 ## Related Works
 
+- [mlb2026](https://github.com/KurimaReiji/mlb2026)
+
 - [mlb2024](https://github.com/KurimaReiji/mlb2024)
 - [mlb2023](https://github.com/KurimaReiji/mlb2023)
 - [mlb2022](https://github.com/KurimaReiji/mlb2022)
